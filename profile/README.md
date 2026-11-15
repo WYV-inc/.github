@@ -1,75 +1,150 @@
-Wyven Inc
-
 <!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+  Wyven Group — GitHub Organisation Profile
+  Brand palette: #070B0F · #031D2E · #063B5C · #0A84C6 · #DCEFF8
 -->
-# WYVEN GROUP
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WYVEN-GROUP-168DE2?style=for-the-badge" alt="Wyven Group"/>
+  <img
+    src="./assets/hero-banner.png"
+    alt="Wyven Group — Building what's next, together."
+    width="960"
+  />
 </p>
-
-<h1 align="center">
-  Think.<br/>
-  Build.<br/>
-  Evolve.
-</h1>
-
-<h3 align="center">Building what's next, together.</h3>
 
 <p align="center">
-  An independent technology group building software, artificial intelligence and digital products from Africa for the world.
+  <sub><b>WYVEN GROUP</b>&nbsp;&nbsp;·&nbsp;&nbsp;Harare, Zimbabwe</sub>
 </p>
+
+<br/>
+
+<p align="center">
+  We build, own, operate and develop technology products and businesses.<br/>
+  Engineering capability. Product ownership. Innovation with intent.
+</p>
+
+<br/>
 
 ---
 
-## What We Do
+<br/>
 
-We build technology that solves real problems.
-
-Wyven Group brings together engineering, innovation and entrepreneurship to develop products, platforms and solutions that create meaningful value.
-
-Our work extends across:
-
-- **Artificial Intelligence** — Intelligent applications, AI-powered platforms and developer technologies.
-- **Software Engineering** — Modern applications, enterprise systems and scalable infrastructure.
-- **Financial Technology** — Digital financial services, payments and business platforms.
-- **Digital Products** — Platforms and applications connecting people, businesses and technology.
-- **Enterprise Solutions** — Technology that simplifies operations and enables businesses to grow.
-
-## Get Involved
-
-Great technology is built through ideas, collaboration and execution.
-
-We're always interested in connecting with talented engineers, innovators, businesses and organisations.
-
-- Explore our GitHub repositories and projects.
-- Collaborate with us on technology and product development.
-- Connect with us about partnerships and opportunities.
-- Follow our journey as we build and launch new products.
-
-## Explore Wyven
+<h2 align="center">What we do</h2>
 
 <p align="center">
-  <a href="https://wyvengroup.com">Website</a> •
-  <a href="https://github.com/WYV-inc">GitHub</a> •
-  <a href="mailto:info@wyvengroup.com">Contact</a>
+  A technology group spanning intelligent systems, software, finance and platforms.
 </p>
+
+<br/>
+
+<p align="center">
+  <b>Artificial Intelligence</b><br/>
+  <sub>AI-powered products, generative systems and applied research</sub>
+</p>
+
+<p align="center">
+  <b>Software &amp; Product Engineering</b><br/>
+  <sub>Modern applications, platforms and scalable infrastructure</sub>
+</p>
+
+<p align="center">
+  <b>Financial Technology</b><br/>
+  <sub>Digital financial infrastructure and business platforms</sub>
+</p>
+
+<p align="center">
+  <b>Enterprise Software</b><br/>
+  <sub>Systems that simplify operations and enable growth</sub>
+</p>
+
+<p align="center">
+  <b>Digital Platforms &amp; Ventures</b><br/>
+  <sub>Products and technology businesses we build and operate</sub>
+</p>
+
+<br/>
 
 ---
 
+<br/>
+
+<h2 align="center">Our ecosystem</h2>
+
 <p align="center">
-  <strong>WYVEN GROUP</strong><br/>
-  Building what's next, together.
-  <br/><br/>
-  Harare, Zimbabwe · Operating with a global vision.
-  <br/><br/>
-  <sub>© 2026 Wyven Group. All rights reserved.</sub>
+  Products and ventures across health, business software and intelligence.
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://www.myid.co.zw/"><b>MyID</b></a><br/>
+  <sub>Digital health identity for emergency access, records and care</sub>
+</p>
+
+<p align="center">
+  <a href="https://about.mabhuku.com/"><b>Mabhuku</b></a><br/>
+  <sub>Business suite for retail operations and accounting</sub>
+</p>
+
+<p align="center">
+  <b>Wyven AI</b><br/>
+  <sub>Applied intelligence across products and platforms</sub>
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+<h2 align="center">Get involved</h2>
+
+<p align="center">
+  Engineers, partners and organisations building what's next.
+</p>
+
+<br/>
+
+<p align="center">
+  Explore our repositories&nbsp;&nbsp;·&nbsp;&nbsp;
+  Collaborate on products and platforms&nbsp;&nbsp;·&nbsp;&nbsp;
+  Partner with the group
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://wyvengroup.com"><b>Website</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/WYV-inc"><b>GitHub</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:info@wyvengroup.com"><b>Contact</b></a>
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+<p align="center">
+  <img src="./assets/wyven-dragon-mark.png" alt="Wyven dragon mark" width="48" />
+</p>
+
+<p align="center">
+  <b>WYVEN GROUP</b><br/>
+  <sub>Building what's next, together.</sub>
+</p>
+
+<p align="center">
+  <sub>
+    <a href="https://wyvengroup.com">wyvengroup.com</a>
+    &nbsp;·&nbsp;
+    <a href="https://github.com/WYV-inc">github.com/WYV-inc</a>
+    &nbsp;·&nbsp;
+    <a href="mailto:info@wyvengroup.com">info@wyvengroup.com</a>
+  </sub>
+</p>
+
+<p align="center">
+  <sub>Harare, Zimbabwe</sub>
 </p>
