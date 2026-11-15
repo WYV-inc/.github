@@ -70,7 +70,7 @@
 <h2 align="center">Our ecosystem</h2>
 
 <p align="center">
-  Products and ventures across health, business software and intelligence.
+  Products and ventures across health, operations, business software and intelligence.
 </p>
 
 <br/>
@@ -78,6 +78,11 @@
 <p align="center">
   <a href="https://www.myid.co.zw/"><b>MyID</b></a><br/>
   <sub>Digital health identity for emergency access, records and care</sub>
+</p>
+
+<p align="center">
+  <a href="https://works.wyvengroup.com/"><b>Wyven Works</b></a><br/>
+  <sub>Enterprise workflow and operations — documents, projects, plant, finance and time</sub>
 </p>
 
 <p align="center">
