@@ -91,7 +91,7 @@
 </p>
 
 <p align="center">
-  <b>Wyven AI</b><br/>
+  <a href="https://chat.wyvengroup.com/"><b>Wyven AI</b></a><br/>
   <sub>Applied intelligence across products and platforms</sub>
 </p>
 
