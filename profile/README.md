@@ -10,22 +10,66 @@ Wyven Inc
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-Welcome to Wyven Inc's GitHub!
-Wyven Inc is a leading software development company headquartered in Harare, Zimbabwe, with a global vision and a relentless commitment to innovation. We design, build, and deploy high-performance technology solutions that drive transformation in businesses of all sizes, enabling them to navigate the complexities of the modern digital world.
+# WYVEN GROUP
 
-🌍 Our Mission:
-At Wyven Inc, we empower businesses to reach new heights through cutting-edge technology. We believe in creating solutions that don't just solve problems but shape industries and define the future. Our focus is on delivering secure, scalable, and intelligent software that enhances efficiency, accelerates growth, and unlocks new opportunities for our clients.
+<p align="center">
+  <img src="https://img.shields.io/badge/WYVEN-GROUP-168DE2?style=for-the-badge" alt="Wyven Group"/>
+</p>
 
-💼 Expertise:
-Our expertise spans across various sectors, providing comprehensive technology solutions in:
+<h1 align="center">
+  Think.<br/>
+  Build.<br/>
+  Evolve.
+</h1>
 
-Enterprise Software Development: Tailored platforms that scale with your business.
-Cloud Architecture & Solutions: Cloud-first strategies to enhance agility and performance.
-Data-Driven Solutions: Leveraging data to deliver actionable insights and foster informed decision-making.
-Automation & AI: Enabling businesses to automate workflows and embrace AI-driven innovation.
-API & Systems Integration: Seamless integration of systems to drive efficiency and scalability.
-🤝 Collaborate with Us:
-We partner with forward-thinking businesses, governments, and organizations around the world. Whether it’s developing sophisticated software ecosystems or pioneering digital transformation initiatives, Wyven Inc is dedicated to driving meaningful impact.
+<h3 align="center">Building what's next, together.</h3>
 
-We invite visionary leaders and organizations to collaborate with us in shaping the future. Together, we can unlock limitless potential.
+<p align="center">
+  An independent technology group building software, artificial intelligence and digital products from Africa for the world.
+</p>
 
+---
+
+## What We Do
+
+We build technology that solves real problems.
+
+Wyven Group brings together engineering, innovation and entrepreneurship to develop products, platforms and solutions that create meaningful value.
+
+Our work extends across:
+
+- **Artificial Intelligence** — Intelligent applications, AI-powered platforms and developer technologies.
+- **Software Engineering** — Modern applications, enterprise systems and scalable infrastructure.
+- **Financial Technology** — Digital financial services, payments and business platforms.
+- **Digital Products** — Platforms and applications connecting people, businesses and technology.
+- **Enterprise Solutions** — Technology that simplifies operations and enables businesses to grow.
+
+## Get Involved
+
+Great technology is built through ideas, collaboration and execution.
+
+We're always interested in connecting with talented engineers, innovators, businesses and organisations.
+
+- Explore our GitHub repositories and projects.
+- Collaborate with us on technology and product development.
+- Connect with us about partnerships and opportunities.
+- Follow our journey as we build and launch new products.
+
+## Explore Wyven
+
+<p align="center">
+  <a href="https://wyvengroup.com">Website</a> •
+  <a href="https://github.com/WYV-inc">GitHub</a> •
+  <a href="mailto:info@wyvengroup.com">Contact</a>
+</p>
+
+---
+
+<p align="center">
+  <strong>WYVEN GROUP</strong><br/>
+  Building what's next, together.
+  <br/><br/>
+  Harare, Zimbabwe · Operating with a global vision.
+  <br/><br/>
+  <sub>© 2026 Wyven Group. All rights reserved.</sub>
+</p>
